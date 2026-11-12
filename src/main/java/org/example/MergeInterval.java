@@ -27,3 +27,4 @@ public class MergeInterval {
         System.out.println(Arrays.deepToString(new MergeInterval().mergeOverlapping(intvs)));
     }
 }
+
